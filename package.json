@@ -1,6 +1,7 @@
 {
     "name":"irongoddess-dev",
-    "version":"0.1",
+    "version":"0.0.1",
+    "repository":"https://github.com/irongoddess-jason/irongoddess-dev.git",
     "license":"UNLICENSED",
     "dependencies":{
         "aws-sdk":"2.85.0"
