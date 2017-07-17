@@ -1,4 +1,8 @@
 {
-    "name":"irongoddess-dev"
-    "version":"0.1"
+    "name":"irongoddess-dev",
+    "version":"0.1",
+    "license":"UNLICENSED",
+    "dependencies":{
+        "aws-sdk":"2.85.0"
+    }
 }
